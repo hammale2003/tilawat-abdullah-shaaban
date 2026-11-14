@@ -1,0 +1,956 @@
+{
+ "1": {
+  "id": "s001",
+  "section": "surahs",
+  "surah": 1,
+  "title": "سورة الفاتحة",
+  "url": "audio/001.mp3",
+  "bytes": 405290,
+  "secs": 51,
+  "source": "youtube:9nsgzc-MvYA@0.7-51.3",
+  "check": {
+   "match": 1.0,
+   "heard": "الحمد لله رب العالمين الرحمن الرحيم ملك يوم الدين اياك"
+  }
+ },
+ "2": {
+  "id": "s002",
+  "section": "surahs",
+  "surah": 2,
+  "title": "سورة البقرة",
+  "url": "audio/002.mp3",
+  "bytes": 65568886,
+  "secs": 8196,
+  "source": "youtube:YSvguizvYYc",
+  "check": {
+   "match": 0.74,
+   "heard": "الف لا امي ذلك الكتاب لا ريب فيه هدي المتقين"
+  }
+ },
+ "3": {
+  "id": "s003",
+  "section": "surahs",
+  "surah": 3,
+  "title": "سورة آل عمران",
+  "url": "audio/003.mp3",
+  "bytes": 41095290,
+  "secs": 5137,
+  "source": "youtube:bceCZ4Xb2m8",
+  "check": {
+   "match": 0.72,
+   "heard": "الف لا ميم الله لا اله الا هو الحي القيوم"
+  }
+ },
+ "12": {
+  "id": "s012",
+  "section": "surahs",
+  "surah": 12,
+  "title": "سورة يوسف",
+  "url": "audio/012.mp3",
+  "bytes": 18871767,
+  "secs": 2359,
+  "source": "youtube:eeioet9WFj0",
+  "check": {
+   "match": 0.81,
+   "heard": "الف لامره تلك ايات الكتاب المبين انا انزلناه قران العربيه"
+  }
+ },
+ "15": {
+  "id": "s015",
+  "section": "surahs",
+  "surah": 15,
+  "title": "سورة الحجر",
+  "url": "audio/015.mp3",
+  "bytes": 7262116,
+  "secs": 908,
+  "source": "youtube:W2r4xuBBtME",
+  "check": {
+   "match": 0.74,
+   "heard": "الف لا امري تلك ايات الكتاب وقران مبين ربما يود"
+  }
+ },
+ "18": {
+  "id": "s018",
+  "section": "surahs",
+  "surah": 18,
+  "title": "سورة الكهف",
+  "url": "audio/018.mp3",
+  "bytes": 16257852,
+  "secs": 2032,
+  "source": "youtube:ha1e3-C3GiA",
+  "check": {
+   "match": 1.0,
+   "heard": "الحمد لله الذي انزل علي عبده الكتاب ولم يجعل له"
+  }
+ },
+ "19": {
+  "id": "s019",
+  "section": "surahs",
+  "surah": 19,
+  "title": "سورة مريم",
+  "url": "audio/019.mp3",
+  "bytes": 9719296,
+  "secs": 1215,
+  "source": "youtube:0_cNUyQToOc",
+  "check": {
+   "match": 0.55,
+   "heard": "كافها يا عيير صاد ذكر رحمه ربك عبده زكريه اذ"
+  }
+ },
+ "20": {
+  "id": "s020",
+  "section": "surahs",
+  "surah": 20,
+  "title": "سورة طه",
+  "url": "audio/020.mp3",
+  "bytes": 14264808,
+  "secs": 1783,
+  "source": "youtube:qm5cme3AGak",
+  "check": {
+   "match": 0.97,
+   "heard": "طاها ما انزلنا عليك القران لتشقي الا تذكرت لمن يخشان"
+  }
+ },
+ "23": {
+  "id": "s023",
+  "section": "surahs",
+  "surah": 23,
+  "title": "سورة المؤمنون",
+  "url": "audio/023.mp3",
+  "bytes": 12259033,
+  "secs": 1532,
+  "source": "youtube:PQt4FKRZluo@0.0-1532.3",
+  "check": {
+   "match": 1.0,
+   "heard": "قد افلح المومنون الذين هم في صلاتهم خاشعون والذين هم"
+  }
+ },
+ "36": {
+  "id": "s036",
+  "section": "surahs",
+  "surah": 36,
+  "title": "سورة يس",
+  "url": "audio/036.mp3",
+  "bytes": 8149856,
+  "secs": 1019,
+  "source": "youtube:lJJA7mr9YxM",
+  "check": {
+   "match": 0.76,
+   "heard": "يا سين والقران الحكيم انك لفن المرسلين علي صراط مستقيم"
+  }
+ },
+ "37": {
+  "id": "s037",
+  "section": "surahs",
+  "surah": 37,
+  "title": "سورة الصافات",
+  "url": "audio/037.mp3",
+  "bytes": 10649053,
+  "secs": 1331,
+  "source": "youtube:CeguICH9Jxg",
+  "check": {
+   "match": 0.92,
+   "heard": "وصافات صفان فالزاجرات زجري فالتاليات ذكري ان الهكم لوحد رب"
+  }
+ },
+ "40": {
+  "id": "s040",
+  "section": "surahs",
+  "surah": 40,
+  "title": "سورة غافر",
+  "url": "audio/040.mp3",
+  "bytes": 13752394,
+  "secs": 1719,
+  "source": "youtube:AvlEsbTf-Qk",
+  "check": {
+   "match": 0.96,
+   "heard": "حاميم تنزيل الكتاب من الله العزيز العليم غافر الزنب وقابل"
+  }
+ },
+ "41": {
+  "id": "s041",
+  "section": "surahs",
+  "surah": 41,
+  "title": "سورة فصلت",
+  "url": "audio/041.mp3",
+  "bytes": 9372390,
+  "secs": 1171,
+  "source": "youtube:NDSqx1Kj8dQ",
+  "check": {
+   "match": 0.94,
+   "heard": "حاميم تنزل من الرحمن الرحيم كتاب فصلت اياته قران عربيا"
+  }
+ },
+ "44": {
+  "id": "s044",
+  "section": "surahs",
+  "surah": 44,
+  "title": "سورة الدخان",
+  "url": "audio/044.mp3",
+  "bytes": 4377782,
+  "secs": 547,
+  "source": "youtube:b_7sQi4TLEA@1725.5-2272.6",
+  "check": {
+   "match": 0.96,
+   "heard": "حاميم والكتاب المبين انا انزلناه في ليله مباركه انا كنا"
+  }
+ },
+ "55": {
+  "id": "s055",
+  "section": "surahs",
+  "surah": 55,
+  "title": "سورة الرحمن",
+  "url": "audio/055.mp3",
+  "bytes": 4740780,
+  "secs": 592,
+  "source": "youtube:XJI9trp6jbY",
+  "check": {
+   "match": 1.0,
+   "heard": "الرحمن علم القران خلق الانسان علموا البيان الشمس والقمو بحسبان"
+  }
+ },
+ "56": {
+  "id": "s056",
+  "section": "surahs",
+  "surah": 56,
+  "title": "سورة الواقعة",
+  "url": "audio/056.mp3",
+  "bytes": 4751022,
+  "secs": 594,
+  "source": "youtube:tglrnYv1lJk",
+  "check": {
+   "match": 0.97,
+   "heard": "اذا وقعت الواقع ليس لواقعتها كاذبه خافضه الرافعه اذا رجت"
+  }
+ },
+ "58": {
+  "id": "s058",
+  "section": "surahs",
+  "surah": 58,
+  "title": "سورة المجادلة",
+  "url": "audio/058.mp3",
+  "bytes": 5737616,
+  "secs": 717,
+  "source": "youtube:2n_ZDEqa19M@0.0-717.1",
+  "check": {
+   "match": 1.0,
+   "heard": "قد سمع الله قول التي تجادلك في زوجها وتشتكي الي"
+  }
+ },
+ "59": {
+  "id": "s059",
+  "section": "surahs",
+  "surah": 59,
+  "title": "سورة الحشر",
+  "url": "audio/059.mp3",
+  "bytes": 5609297,
+  "secs": 701,
+  "source": "youtube:2n_ZDEqa19M@717.1-1418.2",
+  "check": {
+   "match": 1.0,
+   "heard": "سبح لله ما في السماوات وما في الارض وهو العزيز"
+  }
+ },
+ "67": {
+  "id": "s067",
+  "section": "surahs",
+  "surah": 67,
+  "title": "سورة الملك",
+  "url": "audio/067.mp3",
+  "bytes": 3627125,
+  "secs": 453,
+  "source": "youtube:OVxDQoTcEnM",
+  "check": {
+   "match": 1.0,
+   "heard": "تبارك الذي بيده الملك وهو علي كل شيء قدير الذي"
+  }
+ },
+ "68": {
+  "id": "s068",
+  "section": "surahs",
+  "surah": 68,
+  "title": "سورة القلم",
+  "url": "audio/068.mp3",
+  "bytes": 3729107,
+  "secs": 466,
+  "source": "youtube:PglNDUVTl8Y",
+  "check": {
+   "match": 0.94,
+   "heard": "نون والقلم وما يسترون ما انت بنعمه ربك بمجنون وانك"
+  }
+ },
+ "69": {
+  "id": "s069",
+  "section": "surahs",
+  "surah": 69,
+  "title": "سورة الحاقة",
+  "url": "audio/069.mp3",
+  "bytes": 3186807,
+  "secs": 398,
+  "source": "youtube:cWcoESth6KY",
+  "check": {
+   "match": 0.7,
+   "heard": "الحق ملحق وما ادراك ملحق كذبت مود وعاد بالقارعه فاما"
+  }
+ },
+ "70": {
+  "id": "s070",
+  "section": "surahs",
+  "surah": 70,
+  "title": "سورة المعارج",
+  "url": "audio/070.mp3",
+  "bytes": 2544197,
+  "secs": 318,
+  "source": "youtube:WHGOQDtvM1w@1333.7-1651.7",
+  "check": {
+   "match": 0.99,
+   "heard": "سال سايل بعذاب وقع للكافرين ليس له دافع من الله"
+  }
+ },
+ "71": {
+  "id": "s071",
+  "section": "surahs",
+  "surah": 71,
+  "title": "سورة نوح",
+  "url": "audio/071.mp3",
+  "bytes": 2717224,
+  "secs": 340,
+  "source": "youtube:6SM1_yAq8Cc",
+  "check": {
+   "match": 0.98,
+   "heard": "ان ارسلنا نوحا الي قومه ان انذر قومك من قبل"
+  }
+ },
+ "72": {
+  "id": "s072",
+  "section": "surahs",
+  "surah": 72,
+  "title": "سورة الجن",
+  "url": "audio/072.mp3",
+  "bytes": 3152531,
+  "secs": 394,
+  "source": "youtube:n4mfQ7XKQfQ",
+  "check": {
+   "match": 0.96,
+   "heard": "قل احيا الي انه استمع نفر من الجن فقالوا اننا"
+  }
+ },
+ "73": {
+  "id": "s073",
+  "section": "surahs",
+  "surah": 73,
+  "title": "سورة المزمل",
+  "url": "audio/073.mp3",
+  "bytes": 2240966,
+  "secs": 280,
+  "source": "youtube:aPfYnYw9fhs",
+  "check": {
+   "match": 0.98,
+   "heard": "يا ايها المزم قم الليل الا قليلا نصفه او انقص"
+  }
+ },
+ "74": {
+  "id": "s074",
+  "section": "surahs",
+  "surah": 74,
+  "title": "سورة المدثر",
+  "url": "audio/074.mp3",
+  "bytes": 2998099,
+  "secs": 375,
+  "source": "youtube:WHGOQDtvM1w@2670.1-3044.7",
+  "check": {
+   "match": 0.91,
+   "heard": "يا ايها المدثر كن فانذن وربك فكبر وثيابك فطهر ورجز"
+  }
+ },
+ "75": {
+  "id": "s075",
+  "section": "surahs",
+  "surah": 75,
+  "title": "سورة القيامة",
+  "url": "audio/075.mp3",
+  "bytes": 1709533,
+  "secs": 214,
+  "source": "youtube:e9meudK06nE",
+  "check": {
+   "match": 1.0,
+   "heard": "لا اقسم بيوم القيامه ولا اقسم بالنفس اللوامه ايحسب الانفسان"
+  }
+ },
+ "76": {
+  "id": "s076",
+  "section": "surahs",
+  "surah": 76,
+  "title": "سورة الانسان",
+  "url": "audio/076.mp3",
+  "bytes": 2842829,
+  "secs": 355,
+  "source": "youtube:FTfpwzn5dGc",
+  "check": {
+   "match": 0.81,
+   "heard": "هل اتاع للانسان حين من الدهر لم يكون شييا مذكورا"
+  }
+ },
+ "77": {
+  "id": "s077",
+  "section": "surahs",
+  "surah": 77,
+  "title": "سورة المرسلات",
+  "url": "audio/077.mp3",
+  "bytes": 2225505,
+  "secs": 278,
+  "source": "youtube:ebeUxhs-sMc",
+  "check": {
+   "match": 0.92,
+   "heard": "والمرسلات عرفه فالعصفات عصفه والناشرات نشري فالفارقات فرقي فالملكيات ذكري"
+  }
+ },
+ "78": {
+  "id": "s078",
+  "section": "amma",
+  "surah": 78,
+  "title": "سورة النبإ",
+  "url": "audio/078.mp3",
+  "bytes": 2086528,
+  "secs": 261,
+  "source": "youtube:0ZCKkJnlk34",
+  "check": {
+   "match": 0.87,
+   "heard": "عم تسالوا عن النبا العظيم الذيهم فيه مختلفون كلا سيعلموه"
+  }
+ },
+ "79": {
+  "id": "s079",
+  "section": "amma",
+  "surah": 79,
+  "title": "سورة النازعات",
+  "url": "audio/079.mp3",
+  "bytes": 1966371,
+  "secs": 246,
+  "source": "youtube:6GEJqiJJ1ms",
+  "check": {
+   "match": 0.86,
+   "heard": "والنازعات غمقي والناشقات نشقي والسابحات سبحي فالسابقات سبقي فالمدفرات امرا"
+  }
+ },
+ "80": {
+  "id": "s080",
+  "section": "amma",
+  "surah": 80,
+  "title": "سورة عبس",
+  "url": "audio/080.mp3",
+  "bytes": 1661041,
+  "secs": 208,
+  "source": "youtube:q4xsJeGC5Fo",
+  "check": {
+   "match": 0.83,
+   "heard": "عبس وتولي ان جاء او العمي وما يدري كان عنه"
+  }
+ },
+ "81": {
+  "id": "s081",
+  "section": "amma",
+  "surah": 81,
+  "title": "سورة التكوير",
+  "url": "audio/081.mp3",
+  "bytes": 1193353,
+  "secs": 149,
+  "source": "youtube:HELwMshBMLc",
+  "check": {
+   "match": 0.97,
+   "heard": "اذا الشمس كورت واذا النجوم كدرت واذا الجبان سيرت واذا"
+  }
+ },
+ "82": {
+  "id": "s082",
+  "section": "amma",
+  "surah": 82,
+  "title": "سورة الإنفطار",
+  "url": "audio/082.mp3",
+  "bytes": 964104,
+  "secs": 120,
+  "source": "youtube:naKiv218itU",
+  "check": {
+   "match": 0.88,
+   "heard": "اذا السماء فقعت واذا الكراكب تثرت واذا البحاغ فجرت واذا"
+  }
+ },
+ "83": {
+  "id": "s083",
+  "section": "amma",
+  "surah": 83,
+  "title": "سورة المطففين",
+  "url": "audio/083.mp3",
+  "bytes": 2025512,
+  "secs": 253,
+  "source": "youtube:km4vioirwo8",
+  "check": {
+   "match": 0.96,
+   "heard": "اقويل للمطففين الذين اذا كتالوا علي الناس يستنفون واذا كانوا"
+  }
+ },
+ "84": {
+  "id": "s084",
+  "section": "amma",
+  "surah": 84,
+  "title": "سورة الإنشقاق",
+  "url": "audio/084.mp3",
+  "bytes": 1263154,
+  "secs": 158,
+  "source": "youtube:2fGt_WaA810",
+  "check": {
+   "match": 0.92,
+   "heard": "اذا السماء شكت واذنت لربها وحقت واذن لوض مده والقت"
+  }
+ },
+ "85": {
+  "id": "s085",
+  "section": "amma",
+  "surah": 85,
+  "title": "سورة البروج",
+  "url": "audio/085.mp3",
+  "bytes": 1326680,
+  "secs": 166,
+  "source": "youtube:NYry1vgjup4",
+  "check": {
+   "match": 0.99,
+   "heard": "والسماء ذات البروج واليوم الموعود وشاهد ومشود كتل اصحاب الاخدود"
+  }
+ },
+ "86": {
+  "id": "s086",
+  "section": "amma",
+  "surah": 86,
+  "title": "سورة الطارق",
+  "url": "audio/086.mp3",
+  "bytes": 743000,
+  "secs": 93,
+  "source": "youtube:7TVB1_a4L54",
+  "check": {
+   "match": 0.91,
+   "heard": "والسماء والطارق وما ادري كما الطارق ان نجم الثاقبه ان"
+  }
+ },
+ "87": {
+  "id": "s087",
+  "section": "amma",
+  "surah": 87,
+  "title": "سورة الأعلى",
+  "url": "audio/087.mp3",
+  "bytes": 776855,
+  "secs": 97,
+  "source": "youtube:b3VzclVul5k",
+  "check": {
+   "match": 0.95,
+   "heard": "سبح اسم ربك الاعلام الذي خلق فسوي والذي قدر فهدي"
+  }
+ },
+ "88": {
+  "id": "s088",
+  "section": "amma",
+  "surah": 88,
+  "title": "سورة الغاشية",
+  "url": "audio/088.mp3",
+  "bytes": 988135,
+  "secs": 123,
+  "source": "youtube:U2VtW9fRyiE",
+  "check": {
+   "match": 0.87,
+   "heard": "حلتاك حديث الغاشيه وجوه يوميذ خاشعه عامله الناصبه تصلانا وانحاميه"
+  }
+ },
+ "89": {
+  "id": "s089",
+  "section": "amma",
+  "surah": 89,
+  "title": "سورة الفجر",
+  "url": "audio/089.mp3",
+  "bytes": 1635550,
+  "secs": 204,
+  "source": "youtube:7Awoa7tgTKg",
+  "check": {
+   "match": 0.95,
+   "heard": "والفجر واليال عشخ والشفع والوتر والليل اذا يسر هل في"
+  }
+ },
+ "90": {
+  "id": "s090",
+  "section": "amma",
+  "surah": 90,
+  "title": "سورة البلد",
+  "url": "audio/090.mp3",
+  "bytes": 890120,
+  "secs": 111,
+  "source": "youtube:y7lPN9BIMWk",
+  "check": {
+   "match": 0.95,
+   "heard": "لا اقسم بهذا البلد وان تحلم بهذا البلد ووالد وما"
+  }
+ },
+ "91": {
+  "id": "s091",
+  "section": "amma",
+  "surah": 91,
+  "title": "سورة الشمس",
+  "url": "audio/091.mp3",
+  "bytes": 745297,
+  "secs": 93,
+  "source": "youtube:sWQrihOCdWE",
+  "check": {
+   "match": 0.94,
+   "heard": "والشمس وضحها والقمر اذا تناها والنهال اذا جنها واللين اذا"
+  }
+ },
+ "92": {
+  "id": "s092",
+  "section": "amma",
+  "surah": 92,
+  "title": "سورة الليل",
+  "url": "audio/092.mp3",
+  "bytes": 868177,
+  "secs": 108,
+  "source": "youtube:m6jcfrsUNbQ",
+  "check": {
+   "match": 0.94,
+   "heard": "والليل اذا يغشي والنهان اذا تجني وما خلق الذكر والافاء"
+  }
+ },
+ "93": {
+  "id": "s093",
+  "section": "amma",
+  "surah": 93,
+  "title": "سورة الضحى",
+  "url": "audio/093.mp3",
+  "bytes": 442485,
+  "secs": 55,
+  "source": "youtube:Le41df5JlHM@2284.8-2340.0",
+  "check": {
+   "match": 0.95,
+   "heard": "وقضحي والليل اذا سجي ما ودعك ربك وما قلي ولا"
+  }
+ },
+ "94": {
+  "id": "s094",
+  "section": "amma",
+  "surah": 94,
+  "title": "سورة الشرح",
+  "url": "audio/094.mp3",
+  "bytes": 282407,
+  "secs": 35,
+  "source": "youtube:Le41df5JlHM@2340.0-2375.2",
+  "check": {
+   "match": 1.0,
+   "heard": "الم نشرح لك صدرك ووضعنا عنك وزرك الذي انك ضهرك"
+  }
+ },
+ "95": {
+  "id": "s095",
+  "section": "amma",
+  "surah": 95,
+  "title": "سورة التين",
+  "url": "audio/095.mp3",
+  "bytes": 454188,
+  "secs": 57,
+  "source": "youtube:Le41df5JlHM@2375.2-2431.9",
+  "check": {
+   "match": 1.0,
+   "heard": "والتين والزيتون وطور سينين وهذا البلد الامين لقد خلقنا الانسان"
+  }
+ },
+ "96": {
+  "id": "s096",
+  "section": "amma",
+  "surah": 96,
+  "title": "سورة العلق",
+  "url": "audio/096.mp3",
+  "bytes": 671736,
+  "secs": 84,
+  "source": "youtube:Le41df5JlHM@2431.9-2515.8",
+  "check": {
+   "match": 0.99,
+   "heard": "اقرا بسم ربك الذي خلق خلق الانسان من علق اقرا"
+  }
+ },
+ "97": {
+  "id": "s097",
+  "section": "amma",
+  "surah": 97,
+  "title": "سورة القدر",
+  "url": "audio/097.mp3",
+  "bytes": 325039,
+  "secs": 41,
+  "source": "youtube:Le41df5JlHM@2515.8-2556.3",
+  "check": {
+   "match": 0.91,
+   "heard": "ان انزلناه في ليله قدر وما ادري كما نيله قدر"
+  }
+ },
+ "98": {
+  "id": "s098",
+  "section": "amma",
+  "surah": 98,
+  "title": "سورة البينة",
+  "url": "audio/098.mp3",
+  "bytes": 989387,
+  "secs": 124,
+  "source": "youtube:Le41df5JlHM@2556.3-2679.8",
+  "check": {
+   "match": 0.98,
+   "heard": "لم يكون الذين كفروا من اهل الكتاب والمشكين موافكين حتي"
+  }
+ },
+ "99": {
+  "id": "s099",
+  "section": "amma",
+  "surah": 99,
+  "title": "سورة الزلزلة",
+  "url": "audio/099.mp3",
+  "bytes": 407799,
+  "secs": 51,
+  "source": "youtube:Le41df5JlHM@2679.8-2730.7",
+  "check": {
+   "match": 0.9,
+   "heard": "اذا زلسلت الارض زنزالها واخرجت الارض وفقلها وقال الانسان مانها"
+  }
+ },
+ "100": {
+  "id": "s100",
+  "section": "amma",
+  "surah": 100,
+  "title": "سورة العاديات",
+  "url": "audio/100.mp3",
+  "bytes": 450643,
+  "secs": 56,
+  "source": "youtube:Le41df5JlHM@2730.7-2787.0",
+  "check": {
+   "match": 1.0,
+   "heard": "والعاديات ضبحا فالموريات قدحا فالمغيرات صبحا فاثر نبي نقعا فوسات"
+  }
+ },
+ "101": {
+  "id": "s101",
+  "section": "amma",
+  "surah": 101,
+  "title": "سورة القارعة",
+  "url": "audio/101.mp3",
+  "bytes": 404874,
+  "secs": 50,
+  "source": "youtube:Le41df5JlHM@2787.0-2837.5",
+  "check": {
+   "match": 0.84,
+   "heard": "القارعه مالقارعه وما ادراك مالقارعه يوم يكون الناسك الفراش المبثوه"
+  }
+ },
+ "102": {
+  "id": "s102",
+  "section": "amma",
+  "surah": 102,
+  "title": "سورة التكاثر",
+  "url": "audio/102.mp3",
+  "bytes": 377289,
+  "secs": 47,
+  "source": "youtube:Le41df5JlHM@2837.5-2884.5",
+  "check": {
+   "match": 0.96,
+   "heard": "الهاكم التكاث حتي زرتم المقابر كنا سوف تعلمون ثم كنا"
+  }
+ },
+ "103": {
+  "id": "s103",
+  "section": "amma",
+  "surah": 103,
+  "title": "سورة العصر",
+  "url": "audio/103.mp3",
+  "bytes": 193174,
+  "secs": 24,
+  "source": "youtube:Le41df5JlHM@2884.5-2908.6",
+  "check": {
+   "match": 0.74,
+   "heard": "والعص ان اليما ساننا في خص الا الذين عاملوا وعملوا"
+  }
+ },
+ "104": {
+  "id": "s104",
+  "section": "amma",
+  "surah": 104,
+  "title": "سورة الهمزة",
+  "url": "audio/104.mp3",
+  "bytes": 368928,
+  "secs": 46,
+  "source": "youtube:Le41df5JlHM@2908.6-2954.6",
+  "check": {
+   "match": 0.84,
+   "heard": "وال لكله مزه اللمزه الذي جمع مانه عدده يحسب ان"
+  }
+ },
+ "105": {
+  "id": "s105",
+  "section": "amma",
+  "surah": 105,
+  "title": "سورة الفيل",
+  "url": "audio/105.mp3",
+  "bytes": 286797,
+  "secs": 36,
+  "source": "youtube:Le41df5JlHM@2954.6-2990.3",
+  "check": {
+   "match": 0.98,
+   "heard": "الم تري كيف فعل ربك باصحاب الفيل الم يجعل كيدهم"
+  }
+ },
+ "106": {
+  "id": "s106",
+  "section": "amma",
+  "surah": 106,
+  "title": "سورة قريش",
+  "url": "audio/106.mp3",
+  "bytes": 246461,
+  "secs": 31,
+  "source": "youtube:Le41df5JlHM@2990.3-3021.1",
+  "check": {
+   "match": 0.69,
+   "heard": "ليلي في قريش ايلي فيهم رحله الشتاء والصيف فليعبد رب"
+  }
+ },
+ "107": {
+  "id": "s107",
+  "section": "amma",
+  "surah": 107,
+  "title": "سورة الماعون",
+  "url": "audio/107.mp3",
+  "bytes": 331940,
+  "secs": 41,
+  "source": "youtube:Le41df5JlHM@3021.1-3062.5",
+  "check": {
+   "match": 0.88,
+   "heard": "ارايت الذي يكثب بالديم فذانك الذي يدعوا ليتي و لا"
+  }
+ },
+ "108": {
+  "id": "s108",
+  "section": "amma",
+  "surah": 108,
+  "title": "سورة الكوثر",
+  "url": "audio/108.mp3",
+  "bytes": 163919,
+  "secs": 20,
+  "source": "youtube:Le41df5JlHM@3062.5-3082.8",
+  "check": {
+   "match": 0.91,
+   "heard": "انا اعطيناك كمثه فصل لربك وانحر ان شانيك هو الابتر"
+  }
+ },
+ "109": {
+  "id": "s109",
+  "section": "amma",
+  "surah": 109,
+  "title": "سورة الكافرون",
+  "url": "audio/109.mp3",
+  "bytes": 327763,
+  "secs": 41,
+  "source": "youtube:Le41df5JlHM@3082.8-3123.7",
+  "check": {
+   "match": 0.85,
+   "heard": "كليا ايها الكافرون لا اعبد ما تعبدون ولا انتم عبدون"
+  }
+ },
+ "110": {
+  "id": "s110",
+  "section": "amma",
+  "surah": 110,
+  "title": "سورة النصر",
+  "url": "audio/110.mp3",
+  "bytes": 237686,
+  "secs": 30,
+  "source": "youtube:Le41df5JlHM@3123.7-3153.3",
+  "check": {
+   "match": 0.89,
+   "heard": "اذا جاء نصوا وهي والفتح ورايت الناس يدخلون في دين"
+  }
+ },
+ "111": {
+  "id": "s111",
+  "section": "amma",
+  "surah": 111,
+  "title": "سورة المسد",
+  "url": "audio/111.mp3",
+  "bytes": 252733,
+  "secs": 32,
+  "source": "youtube:Le41df5JlHM@3153.3-3184.8",
+  "check": {
+   "match": 0.82,
+   "heard": "تبت يداء بلهب وتب ما اظني عنه مال وما كسب"
+  }
+ },
+ "112": {
+  "id": "s112",
+  "section": "amma",
+  "surah": 112,
+  "title": "سورة الإخلاص",
+  "url": "audio/112.mp3",
+  "bytes": 136753,
+  "secs": 17,
+  "source": "youtube:Le41df5JlHM@3184.8-3201.8",
+  "check": {
+   "match": 0.93,
+   "heard": "كل هو الله احد الله صمد لم يلد ولم يولد"
+  }
+ },
+ "113": {
+  "id": "s113",
+  "section": "amma",
+  "surah": 113,
+  "title": "سورة الفلق",
+  "url": "audio/113.mp3",
+  "bytes": 222013,
+  "secs": 28,
+  "source": "youtube:Le41df5JlHM@3201.8-3229.5",
+  "check": {
+   "match": 0.94,
+   "heard": "قل اعوذ برب الفلقه من شل ما خلق وميا شل"
+  }
+ },
+ "114": {
+  "id": "s114",
+  "section": "amma",
+  "surah": 114,
+  "title": "سورة الناس",
+  "url": "audio/114.mp3",
+  "bytes": 258584,
+  "secs": 32,
+  "source": "youtube:Le41df5JlHM@3229.5-3261.7",
+  "check": {
+   "match": 0.97,
+   "heard": "كل اعوذ برب الناس ملك الناس اله الناس من شر"
+  }
+ },
+ "ruqya": {
+  "id": "ruqya",
+  "section": "special",
+  "surah": null,
+  "title": "الرقية الشرعية",
+  "url": "audio/ruqya.mp3",
+  "bytes": 11311726,
+  "secs": 1414,
+  "source": "youtube:pYYFJDQ5NP4"
+ },
+ "morning": {
+  "id": "morning",
+  "section": "special",
+  "surah": null,
+  "title": "أذكار الصباح",
+  "url": "audio/morning.mp3",
+  "bytes": 12248995,
+  "secs": 1531,
+  "source": "youtube:4LmbsuGqfMA"
+ },
+ "evening": {
+  "id": "evening",
+  "section": "special",
+  "surah": null,
+  "title": "أذكار المساء",
+  "url": "audio/evening.mp3",
+  "bytes": 12177524,
+  "secs": 1522,
+  "source": "youtube:nBEXGPDMpwg"
+ }
+}

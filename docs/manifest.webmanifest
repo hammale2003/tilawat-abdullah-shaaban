@@ -1,0 +1,36 @@
+{
+  "name": "تلاوات عبد الله أحمد شعبان",
+  "short_name": "عبدالله شعبان",
+  "description": "استمع إلى القرآن الكريم بصوت القارئ عبد الله أحمد شعبان — بدون إعلانات، بدون حساب.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": ".",
+  "scope": ".",
+  "id": "tilawat-abdullah-shaaban",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F2142",
+  "theme_color": "#F6F1E6",
+  "categories": [
+    "books",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

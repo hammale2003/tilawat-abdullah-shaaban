@@ -1,0 +1,192 @@
+{
+  "channel": "https://www.youtube.com/@Abdullahshaab1",
+  "rule": "Official channel only. The channel disowns the reciter's OLD recordings (tajweed errors) and anything re-uploaded from them; nothing here comes from any other source.",
+  "singles": {
+    "2": "YSvguizvYYc",
+    "3": "bceCZ4Xb2m8",
+    "12": "eeioet9WFj0",
+    "15": "W2r4xuBBtME",
+    "18": "ha1e3-C3GiA",
+    "19": "0_cNUyQToOc",
+    "20": "qm5cme3AGak",
+    "36": "lJJA7mr9YxM",
+    "37": "CeguICH9Jxg",
+    "40": "AvlEsbTf-Qk",
+    "41": "NDSqx1Kj8dQ",
+    "55": "XJI9trp6jbY",
+    "56": "tglrnYv1lJk",
+    "67": "OVxDQoTcEnM",
+    "68": "PglNDUVTl8Y",
+    "69": "cWcoESth6KY",
+    "71": "6SM1_yAq8Cc",
+    "72": "n4mfQ7XKQfQ",
+    "73": "aPfYnYw9fhs",
+    "75": "e9meudK06nE",
+    "76": "FTfpwzn5dGc",
+    "77": "ebeUxhs-sMc",
+    "78": "0ZCKkJnlk34",
+    "79": "6GEJqiJJ1ms",
+    "80": "q4xsJeGC5Fo",
+    "81": "HELwMshBMLc",
+    "82": "naKiv218itU",
+    "83": "km4vioirwo8",
+    "84": "2fGt_WaA810",
+    "85": "NYry1vgjup4",
+    "86": "7TVB1_a4L54",
+    "87": "b3VzclVul5k",
+    "88": "U2VtW9fRyiE",
+    "89": "7Awoa7tgTKg",
+    "90": "y7lPN9BIMWk",
+    "91": "sWQrihOCdWE",
+    "92": "m6jcfrsUNbQ"
+  },
+  "splits": {
+    "WHGOQDtvM1w": {
+      "what": "جزء تبارك (كامل) - جديد و حصري",
+      "surahs": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "take": [
+        70,
+        74
+      ]
+    },
+    "Le41df5JlHM": {
+      "what": "جزء عم (كامل) - جديد و حصري",
+      "surahs": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "take": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114
+      ]
+    },
+    "PQt4FKRZluo": {
+      "what": "المؤمنون + الصافات + الملك",
+      "surahs": [
+        23,
+        37,
+        67
+      ],
+      "take": [
+        23
+      ]
+    },
+    "b_7sQi4TLEA": {
+      "what": "غافر + الدخان",
+      "surahs": [
+        40,
+        44
+      ],
+      "take": [
+        44
+      ]
+    },
+    "2n_ZDEqa19M": {
+      "what": "الحشر + المجادلة (order measured from the recitation)",
+      "surahs": [
+        58,
+        59
+      ],
+      "take": [
+        58,
+        59
+      ],
+      "order": "measure"
+    },
+    "9nsgzc-MvYA": {
+      "what": "الفاتحة ثم البقرة… (first 6 minutes only)",
+      "surahs": [
+        1,
+        2
+      ],
+      "take": [
+        1
+      ],
+      "section": "*0:00-0:06:00"
+    }
+  },
+  "special": {
+    "ruqya": {
+      "id": "pYYFJDQ5NP4",
+      "title": "الرقية الشرعية"
+    },
+    "morning": {
+      "id": "4LmbsuGqfMA",
+      "title": "أذكار الصباح"
+    },
+    "evening": {
+      "id": "nBEXGPDMpwg",
+      "title": "أذكار المساء"
+    }
+  },
+  "reference": {
+    "h_ZDXZ8ulaM": "الواقعة + الرحمن + الملك + الحشر — only to tell الحشر from المجادلة in 2n_ZDEqa19M"
+  }
+}

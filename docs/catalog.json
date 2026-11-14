@@ -1,0 +1,648 @@
+{
+ "reciter": {
+  "ar": "عبد الله أحمد شعبان",
+  "en": "Abdullah Ahmed Shaaban",
+  "riwaya": "",
+  "source": "https://www.youtube.com/@Abdullahshaab1"
+ },
+ "sections": [
+  {
+   "id": "surahs",
+   "ar": "السور",
+   "note": ""
+  },
+  {
+   "id": "amma",
+   "ar": "جزء عمّ",
+   "note": ""
+  },
+  {
+   "id": "special",
+   "ar": "رقية وأذكار",
+   "note": ""
+  }
+ ],
+ "recordings": [
+  {
+   "id": "s001",
+   "section": "surahs",
+   "surah": 1,
+   "title": "سورة الفاتحة",
+   "url": "audio/001.mp3",
+   "bytes": 405290,
+   "secs": 51
+  },
+  {
+   "id": "s002",
+   "section": "surahs",
+   "surah": 2,
+   "title": "سورة البقرة",
+   "url": "audio/002.mp3",
+   "bytes": 65568886,
+   "secs": 8196
+  },
+  {
+   "id": "s003",
+   "section": "surahs",
+   "surah": 3,
+   "title": "سورة آل عمران",
+   "url": "audio/003.mp3",
+   "bytes": 41095290,
+   "secs": 5137
+  },
+  {
+   "id": "s012",
+   "section": "surahs",
+   "surah": 12,
+   "title": "سورة يوسف",
+   "url": "audio/012.mp3",
+   "bytes": 18871767,
+   "secs": 2359
+  },
+  {
+   "id": "s015",
+   "section": "surahs",
+   "surah": 15,
+   "title": "سورة الحجر",
+   "url": "audio/015.mp3",
+   "bytes": 7262116,
+   "secs": 908
+  },
+  {
+   "id": "s018",
+   "section": "surahs",
+   "surah": 18,
+   "title": "سورة الكهف",
+   "url": "audio/018.mp3",
+   "bytes": 16257852,
+   "secs": 2032
+  },
+  {
+   "id": "s019",
+   "section": "surahs",
+   "surah": 19,
+   "title": "سورة مريم",
+   "url": "audio/019.mp3",
+   "bytes": 9719296,
+   "secs": 1215
+  },
+  {
+   "id": "s020",
+   "section": "surahs",
+   "surah": 20,
+   "title": "سورة طه",
+   "url": "audio/020.mp3",
+   "bytes": 14264808,
+   "secs": 1783
+  },
+  {
+   "id": "s023",
+   "section": "surahs",
+   "surah": 23,
+   "title": "سورة المؤمنون",
+   "url": "audio/023.mp3",
+   "bytes": 12259033,
+   "secs": 1532
+  },
+  {
+   "id": "s036",
+   "section": "surahs",
+   "surah": 36,
+   "title": "سورة يس",
+   "url": "audio/036.mp3",
+   "bytes": 8149856,
+   "secs": 1019
+  },
+  {
+   "id": "s037",
+   "section": "surahs",
+   "surah": 37,
+   "title": "سورة الصافات",
+   "url": "audio/037.mp3",
+   "bytes": 10649053,
+   "secs": 1331
+  },
+  {
+   "id": "s040",
+   "section": "surahs",
+   "surah": 40,
+   "title": "سورة غافر",
+   "url": "audio/040.mp3",
+   "bytes": 13752394,
+   "secs": 1719
+  },
+  {
+   "id": "s041",
+   "section": "surahs",
+   "surah": 41,
+   "title": "سورة فصلت",
+   "url": "audio/041.mp3",
+   "bytes": 9372390,
+   "secs": 1171
+  },
+  {
+   "id": "s044",
+   "section": "surahs",
+   "surah": 44,
+   "title": "سورة الدخان",
+   "url": "audio/044.mp3",
+   "bytes": 4377782,
+   "secs": 547
+  },
+  {
+   "id": "s055",
+   "section": "surahs",
+   "surah": 55,
+   "title": "سورة الرحمن",
+   "url": "audio/055.mp3",
+   "bytes": 4740780,
+   "secs": 592
+  },
+  {
+   "id": "s056",
+   "section": "surahs",
+   "surah": 56,
+   "title": "سورة الواقعة",
+   "url": "audio/056.mp3",
+   "bytes": 4751022,
+   "secs": 594
+  },
+  {
+   "id": "s058",
+   "section": "surahs",
+   "surah": 58,
+   "title": "سورة المجادلة",
+   "url": "audio/058.mp3",
+   "bytes": 5737616,
+   "secs": 717
+  },
+  {
+   "id": "s059",
+   "section": "surahs",
+   "surah": 59,
+   "title": "سورة الحشر",
+   "url": "audio/059.mp3",
+   "bytes": 5609297,
+   "secs": 701
+  },
+  {
+   "id": "s067",
+   "section": "surahs",
+   "surah": 67,
+   "title": "سورة الملك",
+   "url": "audio/067.mp3",
+   "bytes": 3627125,
+   "secs": 453
+  },
+  {
+   "id": "s068",
+   "section": "surahs",
+   "surah": 68,
+   "title": "سورة القلم",
+   "url": "audio/068.mp3",
+   "bytes": 3729107,
+   "secs": 466
+  },
+  {
+   "id": "s069",
+   "section": "surahs",
+   "surah": 69,
+   "title": "سورة الحاقة",
+   "url": "audio/069.mp3",
+   "bytes": 3186807,
+   "secs": 398
+  },
+  {
+   "id": "s070",
+   "section": "surahs",
+   "surah": 70,
+   "title": "سورة المعارج",
+   "url": "audio/070.mp3",
+   "bytes": 2544197,
+   "secs": 318
+  },
+  {
+   "id": "s071",
+   "section": "surahs",
+   "surah": 71,
+   "title": "سورة نوح",
+   "url": "audio/071.mp3",
+   "bytes": 2717224,
+   "secs": 340
+  },
+  {
+   "id": "s072",
+   "section": "surahs",
+   "surah": 72,
+   "title": "سورة الجن",
+   "url": "audio/072.mp3",
+   "bytes": 3152531,
+   "secs": 394
+  },
+  {
+   "id": "s073",
+   "section": "surahs",
+   "surah": 73,
+   "title": "سورة المزمل",
+   "url": "audio/073.mp3",
+   "bytes": 2240966,
+   "secs": 280
+  },
+  {
+   "id": "s074",
+   "section": "surahs",
+   "surah": 74,
+   "title": "سورة المدثر",
+   "url": "audio/074.mp3",
+   "bytes": 2998099,
+   "secs": 375
+  },
+  {
+   "id": "s075",
+   "section": "surahs",
+   "surah": 75,
+   "title": "سورة القيامة",
+   "url": "audio/075.mp3",
+   "bytes": 1709533,
+   "secs": 214
+  },
+  {
+   "id": "s076",
+   "section": "surahs",
+   "surah": 76,
+   "title": "سورة الانسان",
+   "url": "audio/076.mp3",
+   "bytes": 2842829,
+   "secs": 355
+  },
+  {
+   "id": "s077",
+   "section": "surahs",
+   "surah": 77,
+   "title": "سورة المرسلات",
+   "url": "audio/077.mp3",
+   "bytes": 2225505,
+   "secs": 278
+  },
+  {
+   "id": "s078",
+   "section": "amma",
+   "surah": 78,
+   "title": "سورة النبإ",
+   "url": "audio/078.mp3",
+   "bytes": 2086528,
+   "secs": 261
+  },
+  {
+   "id": "s079",
+   "section": "amma",
+   "surah": 79,
+   "title": "سورة النازعات",
+   "url": "audio/079.mp3",
+   "bytes": 1966371,
+   "secs": 246
+  },
+  {
+   "id": "s080",
+   "section": "amma",
+   "surah": 80,
+   "title": "سورة عبس",
+   "url": "audio/080.mp3",
+   "bytes": 1661041,
+   "secs": 208
+  },
+  {
+   "id": "s081",
+   "section": "amma",
+   "surah": 81,
+   "title": "سورة التكوير",
+   "url": "audio/081.mp3",
+   "bytes": 1193353,
+   "secs": 149
+  },
+  {
+   "id": "s082",
+   "section": "amma",
+   "surah": 82,
+   "title": "سورة الإنفطار",
+   "url": "audio/082.mp3",
+   "bytes": 964104,
+   "secs": 120
+  },
+  {
+   "id": "s083",
+   "section": "amma",
+   "surah": 83,
+   "title": "سورة المطففين",
+   "url": "audio/083.mp3",
+   "bytes": 2025512,
+   "secs": 253
+  },
+  {
+   "id": "s084",
+   "section": "amma",
+   "surah": 84,
+   "title": "سورة الإنشقاق",
+   "url": "audio/084.mp3",
+   "bytes": 1263154,
+   "secs": 158
+  },
+  {
+   "id": "s085",
+   "section": "amma",
+   "surah": 85,
+   "title": "سورة البروج",
+   "url": "audio/085.mp3",
+   "bytes": 1326680,
+   "secs": 166
+  },
+  {
+   "id": "s086",
+   "section": "amma",
+   "surah": 86,
+   "title": "سورة الطارق",
+   "url": "audio/086.mp3",
+   "bytes": 743000,
+   "secs": 93
+  },
+  {
+   "id": "s087",
+   "section": "amma",
+   "surah": 87,
+   "title": "سورة الأعلى",
+   "url": "audio/087.mp3",
+   "bytes": 776855,
+   "secs": 97
+  },
+  {
+   "id": "s088",
+   "section": "amma",
+   "surah": 88,
+   "title": "سورة الغاشية",
+   "url": "audio/088.mp3",
+   "bytes": 988135,
+   "secs": 123
+  },
+  {
+   "id": "s089",
+   "section": "amma",
+   "surah": 89,
+   "title": "سورة الفجر",
+   "url": "audio/089.mp3",
+   "bytes": 1635550,
+   "secs": 204
+  },
+  {
+   "id": "s090",
+   "section": "amma",
+   "surah": 90,
+   "title": "سورة البلد",
+   "url": "audio/090.mp3",
+   "bytes": 890120,
+   "secs": 111
+  },
+  {
+   "id": "s091",
+   "section": "amma",
+   "surah": 91,
+   "title": "سورة الشمس",
+   "url": "audio/091.mp3",
+   "bytes": 745297,
+   "secs": 93
+  },
+  {
+   "id": "s092",
+   "section": "amma",
+   "surah": 92,
+   "title": "سورة الليل",
+   "url": "audio/092.mp3",
+   "bytes": 868177,
+   "secs": 108
+  },
+  {
+   "id": "s093",
+   "section": "amma",
+   "surah": 93,
+   "title": "سورة الضحى",
+   "url": "audio/093.mp3",
+   "bytes": 442485,
+   "secs": 55
+  },
+  {
+   "id": "s094",
+   "section": "amma",
+   "surah": 94,
+   "title": "سورة الشرح",
+   "url": "audio/094.mp3",
+   "bytes": 282407,
+   "secs": 35
+  },
+  {
+   "id": "s095",
+   "section": "amma",
+   "surah": 95,
+   "title": "سورة التين",
+   "url": "audio/095.mp3",
+   "bytes": 454188,
+   "secs": 57
+  },
+  {
+   "id": "s096",
+   "section": "amma",
+   "surah": 96,
+   "title": "سورة العلق",
+   "url": "audio/096.mp3",
+   "bytes": 671736,
+   "secs": 84
+  },
+  {
+   "id": "s097",
+   "section": "amma",
+   "surah": 97,
+   "title": "سورة القدر",
+   "url": "audio/097.mp3",
+   "bytes": 325039,
+   "secs": 41
+  },
+  {
+   "id": "s098",
+   "section": "amma",
+   "surah": 98,
+   "title": "سورة البينة",
+   "url": "audio/098.mp3",
+   "bytes": 989387,
+   "secs": 124
+  },
+  {
+   "id": "s099",
+   "section": "amma",
+   "surah": 99,
+   "title": "سورة الزلزلة",
+   "url": "audio/099.mp3",
+   "bytes": 407799,
+   "secs": 51
+  },
+  {
+   "id": "s100",
+   "section": "amma",
+   "surah": 100,
+   "title": "سورة العاديات",
+   "url": "audio/100.mp3",
+   "bytes": 450643,
+   "secs": 56
+  },
+  {
+   "id": "s101",
+   "section": "amma",
+   "surah": 101,
+   "title": "سورة القارعة",
+   "url": "audio/101.mp3",
+   "bytes": 404874,
+   "secs": 50
+  },
+  {
+   "id": "s102",
+   "section": "amma",
+   "surah": 102,
+   "title": "سورة التكاثر",
+   "url": "audio/102.mp3",
+   "bytes": 377289,
+   "secs": 47
+  },
+  {
+   "id": "s103",
+   "section": "amma",
+   "surah": 103,
+   "title": "سورة العصر",
+   "url": "audio/103.mp3",
+   "bytes": 193174,
+   "secs": 24
+  },
+  {
+   "id": "s104",
+   "section": "amma",
+   "surah": 104,
+   "title": "سورة الهمزة",
+   "url": "audio/104.mp3",
+   "bytes": 368928,
+   "secs": 46
+  },
+  {
+   "id": "s105",
+   "section": "amma",
+   "surah": 105,
+   "title": "سورة الفيل",
+   "url": "audio/105.mp3",
+   "bytes": 286797,
+   "secs": 36
+  },
+  {
+   "id": "s106",
+   "section": "amma",
+   "surah": 106,
+   "title": "سورة قريش",
+   "url": "audio/106.mp3",
+   "bytes": 246461,
+   "secs": 31
+  },
+  {
+   "id": "s107",
+   "section": "amma",
+   "surah": 107,
+   "title": "سورة الماعون",
+   "url": "audio/107.mp3",
+   "bytes": 331940,
+   "secs": 41
+  },
+  {
+   "id": "s108",
+   "section": "amma",
+   "surah": 108,
+   "title": "سورة الكوثر",
+   "url": "audio/108.mp3",
+   "bytes": 163919,
+   "secs": 20
+  },
+  {
+   "id": "s109",
+   "section": "amma",
+   "surah": 109,
+   "title": "سورة الكافرون",
+   "url": "audio/109.mp3",
+   "bytes": 327763,
+   "secs": 41
+  },
+  {
+   "id": "s110",
+   "section": "amma",
+   "surah": 110,
+   "title": "سورة النصر",
+   "url": "audio/110.mp3",
+   "bytes": 237686,
+   "secs": 30
+  },
+  {
+   "id": "s111",
+   "section": "amma",
+   "surah": 111,
+   "title": "سورة المسد",
+   "url": "audio/111.mp3",
+   "bytes": 252733,
+   "secs": 32
+  },
+  {
+   "id": "s112",
+   "section": "amma",
+   "surah": 112,
+   "title": "سورة الإخلاص",
+   "url": "audio/112.mp3",
+   "bytes": 136753,
+   "secs": 17
+  },
+  {
+   "id": "s113",
+   "section": "amma",
+   "surah": 113,
+   "title": "سورة الفلق",
+   "url": "audio/113.mp3",
+   "bytes": 222013,
+   "secs": 28
+  },
+  {
+   "id": "s114",
+   "section": "amma",
+   "surah": 114,
+   "title": "سورة الناس",
+   "url": "audio/114.mp3",
+   "bytes": 258584,
+   "secs": 32
+  },
+  {
+   "id": "ruqya",
+   "section": "special",
+   "surah": null,
+   "title": "الرقية الشرعية",
+   "url": "audio/ruqya.mp3",
+   "bytes": 11311726,
+   "secs": 1414
+  },
+  {
+   "id": "morning",
+   "section": "special",
+   "surah": null,
+   "title": "أذكار الصباح",
+   "url": "audio/morning.mp3",
+   "bytes": 12248995,
+   "secs": 1531
+  },
+  {
+   "id": "evening",
+   "section": "special",
+   "surah": null,
+   "title": "أذكار المساء",
+   "url": "audio/evening.mp3",
+   "bytes": 12177524,
+   "secs": 1522
+  }
+ ]
+}
