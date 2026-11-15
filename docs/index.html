@@ -42,6 +42,10 @@
   <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3l7.5 3v6c0 4.6-3.1 8-7.5 9.3C7.6 20 4.5 16.6 4.5 12V6z"/><path d="M9 12.3l2.2 2.2L15.4 10"/></symbol>
   <symbol id="i-play-line" viewBox="0 0 24 24"><path d="M7.5 5.2v13.6L19 12z"/></symbol>
   <symbol id="i-arch" viewBox="0 0 30 38"><path d="M27 37V15C27 8 21 4 15 1C9 4 3 8 3 15v22"/><path d="M15 6v7"/><path d="M12.5 13h5l-1 4.5h-3z"/></symbol>
+  <symbol id="i-save" viewBox="0 0 24 24"><path d="M12 4.5v10.2"/><path d="M7.9 10.6 12 14.7l4.1-4.1"/><path d="M5 19.5h14"/></symbol>
+  <symbol id="i-saved" viewBox="0 0 24 24"><path d="M7.2 11.2l3.4 3.4 6.2-6.6"/><path d="M5 19.5h14"/></symbol>
+  <symbol id="i-wait" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" stroke-dasharray="2.2 3.1"/><path d="M12 8v4.2l2.6 1.6"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4.5 6.5h15"/><path d="M9.5 6.5V4.5h5v2"/><path d="M6.5 6.5l.9 13h9.2l.9-13"/></symbol>
   <symbol id="i-star" viewBox="0 0 38 38"><path d="M36 19L19 36L2 19L19 2Z M31 31L7 31L7 7L31 7Z"/></symbol>
 </defs></svg>
 
@@ -89,9 +93,12 @@
 
 <section class="sheet night" id="player" aria-label="المشغّل" aria-hidden="true">
   <div class="phead">
-    <button class="iconbtn" id="player-close" aria-label="إغلاق المشغّل"><svg class="ic"><use href="#i-chevdown"/></svg></button>
+    <span class="side"><button class="iconbtn" id="player-close" aria-label="إغلاق المشغّل"><svg class="ic"><use href="#i-chevdown"/></svg></button></span>
     <span class="who" id="player-reciter">عبد الله أحمد شعبان</span>
-    <button class="iconbtn" id="btn-bookmark" aria-label="إضافة علامة" aria-pressed="false"><svg class="ic"><use href="#i-bookmark"/></svg></button>
+    <span class="side end">
+      <button class="iconbtn dl" id="btn-save" data-dl="" data-state="idle" aria-label="حفظ للاستماع دون إنترنت"><svg class="ic" aria-hidden="true"><use href="#i-save"/></svg></button>
+      <button class="iconbtn" id="btn-bookmark" aria-label="إضافة علامة" aria-pressed="false"><svg class="ic"><use href="#i-bookmark"/></svg></button>
+    </span>
   </div>
   <div class="stage">
     <div class="mihrab">
@@ -150,6 +157,26 @@
         <button data-theme="light" aria-pressed="false">نهاري</button>
         <button data-theme="dark" aria-pressed="false">ليلي</button>
       </div>
+    </section>
+    <section class="group">
+      <h3>الاستماع دون إنترنت</h3>
+      <div class="panel">
+        <button class="item" id="btn-save-all" data-state="idle">
+          <svg class="ic"><use href="#i-save"/></svg>
+          <span class="grow"><span class="lbl" id="save-all-lbl">حفظ كل التلاوات على الجهاز</span><span class="sub" id="save-all-sub"></span></span>
+        </button>
+        <div class="item">
+          <svg class="ic"><use href="#i-saved"/></svg>
+          <span class="grow"><span class="lbl">المحفوظ على الجهاز</span><span class="sub" id="saved-sub">لا شيء بعد</span></span>
+          <button class="iconbtn sm" id="btn-clear-saved" aria-label="حذف كل المحفوظ" hidden><svg class="ic"><use href="#i-trash"/></svg></button>
+        </div>
+      </div>
+      <p class="note">
+        أو اضغط <svg class="ic inline"><use href="#i-save"/></svg> بجانب أي سورة لحفظها وحدها،
+        و<svg class="ic inline"><use href="#i-trash"/></svg> بجانبها لحذفها.
+        على الآيفون احفظ من التطبيق المثبّت على الشاشة الرئيسية لا من صفحة Safari، فلكلٍّ منهما ذاكرته،
+        وأبقِ التطبيق مفتوحاً حتى يكتمل الحفظ. إذا امتلأت ذاكرة الهاتف قد يحذف النظام المحفوظ، فيكفي حفظه من جديد.
+      </p>
     </section>
     <section class="group">
       <h3>على الهاتف</h3>

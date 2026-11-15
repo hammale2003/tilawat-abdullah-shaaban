@@ -3,7 +3,7 @@
  * front of media Range requests is what breaks seeking and lock-screen
  * playback on iOS. Saved recitations live as Blobs in IndexedDB instead. */
 
-const CACHE = 'shaaban-shell-v2';
+const CACHE = 'shaaban-shell-v3';
 
 const SHELL = [
   './',
@@ -28,7 +28,8 @@ const SHELL = [
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(CACHE)
-      .then((c) => Promise.allSettled(SHELL.map((u) => c.add(u))))
+      // 'reload' skips the HTTP cache, so a new version never installs yesterday's files.
+      .then((c) => Promise.allSettled(SHELL.map((u) => c.add(new Request(u, { cache: 'reload' })))))
       .then(() => self.skipWaiting())
   );
 });

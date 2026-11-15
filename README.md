@@ -79,8 +79,20 @@ inside the 100 MB file limit.
 
 The service worker caches the app shell only and never touches `audio/`: a
 service worker answering media Range requests is what breaks seeking and
-lock-screen playback on iOS. Recitations stream; there is no download button,
-by design.
+lock-screen playback on iOS. Recitations stream by default.
+
+To listen without internet, a recitation can be saved on the device: the
+button beside each surah, the one in the player, «حفظ الجزء» for جزء عمّ, or
+«حفظ كل التلاوات» in the settings. A saved recitation shows a tick, which
+does nothing when tapped; it is deleted with the trash button beside it (or
+for the whole juz, or everything from the settings), always after a
+confirmation. Saved files are Blobs in IndexedDB (the
+`shaaban` database), checked against the catalogue's byte count, and played
+through blob: URLs created at start-up, so a tap starts playback without
+waiting on the database (iOS only allows `play()` inside the tap). Offline,
+recordings that are not saved are dimmed and skipped by next/previous. On an
+iPhone, the home-screen app and Safari keep separate storage, so recitations
+must be saved from the installed app.
 
 ## Design — «المحراب»
 
